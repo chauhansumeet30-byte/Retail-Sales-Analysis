@@ -9,17 +9,17 @@ This project analyzes retail sales data using Python to uncover sales trends, cu
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](Monthly_Sales_Trend.png)
 
 
 ### Sales by Category
 
-![Sales by Category](Screenshots/Sales_by_Category.png)
+![Sales by Category](Sales_by_Category.png)
 
 
 ### Sales by Region
 
-![Sales by Region](Screenshots/Sales_by_Region.png)
+![Sales by Region](Sales_by_Region.png)
 
 
 ##  Objectives
